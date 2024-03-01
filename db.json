@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "id": "3d57",
+      "rollno": "Cips",
+      "name": "10",
+      "city": "10",
+      "fees": "2",
+      "tprice": "100"
+    },
+    {
+      "id": "2c53",
+      "rollno": "biskit",
+      "name": "12",
+      "city": "30",
+      "fees": "2",
+      "tprice": "360"
+    },
+    {
+      "id": "9e43",
+      "rollno": "samir",
+      "name": "255",
+      "city": "10",
+      "tprice": "11555",
+      "fees": "6"
+    },
+    {
+      "id": "63bb",
+      "rollno": "ladu",
+      "name": "25",
+      "city": "10",
+      "tprice": "250",
+      "fees": "5"
+    }
+  ]
+}
